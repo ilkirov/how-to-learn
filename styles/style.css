@@ -64,7 +64,7 @@
   position: absolute;
   height: 568px;
   width: 568px;
-  background-color: #2f80ed ;
+  background-color: #2f80ed;
   top: 64px;
   right: 0;
   z-index: 0;
@@ -181,7 +181,6 @@
   font-size: 102px;
   font-weight: 600;
   width: 648px;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 70px;
@@ -317,7 +316,7 @@
 }
 .footer__social-icons {
   width: 16px;
-  height: 16px; 
+  height: 16px;
   background-size: contain;
   position: relative;
   list-style-type: none;
