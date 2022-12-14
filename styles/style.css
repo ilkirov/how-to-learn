@@ -100,6 +100,7 @@
   min-width: 784px;
 }
 .two-columns__paragraph {
+  margin: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: 400;
@@ -239,7 +240,7 @@
   right: -210px;
   z-index: -1;
 }
-.table_cell_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   margin-top: 80px;
   z-index: 1;
