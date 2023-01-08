@@ -1,0 +1,11 @@
+.table__text {
+    margin: 0;
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    z-index: 1;
+  }
+  .table__text:not(:first-child) {
+    margin: 20px 0 0 0;
+  }
