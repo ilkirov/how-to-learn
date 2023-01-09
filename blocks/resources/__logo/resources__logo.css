@@ -2,6 +2,7 @@
     margin: 0;
     width: 270px;
     height: 38px;
+    object-fit: contain;
     transition: opacity 1.0s linear 0s;
 }
 .resources__logo:hover {
